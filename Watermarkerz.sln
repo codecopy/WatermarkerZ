@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkerUI", "WatermarkingDemo\WatermarkerUI.csproj", "{B047A6FD-F400-46D0-92D1-BFD258D354FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkerUI", "WatermarkerUI\WatermarkerUI.csproj", "{B047A6FD-F400-46D0-92D1-BFD258D354FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenWatermark", "HiddenWatermark\HiddenWatermark.csproj", "{C98C374A-9FF4-4C6D-BA5E-E1E1F102374E}"
 EndProject
