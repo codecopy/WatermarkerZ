@@ -10,7 +10,7 @@ using System.Windows.Media.Imaging;
 using HiddenWatermark;
 using Microsoft.Win32;
 
-namespace WatermarkingDemo
+namespace WatermarkerUI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
