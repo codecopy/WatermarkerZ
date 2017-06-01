@@ -1,0 +1,4 @@
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\bin\Release\HiddenWatermark.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\bin\Release\HiddenWatermark.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\obj\Release\HiddenWatermark.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\obj\Release\HiddenWatermark.pdb

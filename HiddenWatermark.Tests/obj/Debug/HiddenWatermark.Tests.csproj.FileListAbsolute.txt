@@ -1,0 +1,10 @@
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.Tests.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.Tests.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.Tests.dll.CodeAnalysisLog.xml
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.Tests.dll.lastcodeanalysissucceeded
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Debug\HiddenWatermark.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Debug\HiddenWatermark.Tests.csprojResolveAssemblyReference.cache
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Debug\HiddenWatermark.Tests.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Debug\HiddenWatermark.Tests.pdb

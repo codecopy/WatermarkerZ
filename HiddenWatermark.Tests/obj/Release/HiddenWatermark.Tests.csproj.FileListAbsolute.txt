@@ -1,0 +1,8 @@
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Release\HiddenWatermark.Tests.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Release\HiddenWatermark.Tests.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Release\HiddenWatermark.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\bin\Release\HiddenWatermark.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Release\HiddenWatermark.Tests.csprojResolveAssemblyReference.cache
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Release\HiddenWatermark.Tests.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark.Tests\obj\Release\HiddenWatermark.Tests.pdb

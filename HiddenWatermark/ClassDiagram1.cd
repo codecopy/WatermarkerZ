@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Accord.Math.CosineTransform" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accord-net\CostineTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Accord.Math.Matrix" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCwAAAAIAAAgAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accord-net\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Accord.Math.ParallelHaar" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAI0IAAAAQAQAAAAAAAI=</HashCode>
+      <FileName>Accord-net\ParallelHaar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.ColorSpaceConversion">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColorSpaceConversion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.ImageHelpers" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIIAAAAAwAIAAIAAgAEAAAQQAAQAAAAAAQAAAQAAAA=</HashCode>
+      <FileName>ImageHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.RgbData" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAEAAAAAAEAAAAAIAAAAAAAACAEAAQA=</HashCode>
+      <FileName>RgbData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.ScaledWatermarkCache" Collapsed="true">
+    <Position X="4" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAIAAQCAACAAAAAAAAAAAAAAAAACEAEAAAAA=</HashCode>
+      <FileName>ScaledWatermarkCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.Watermark" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAABGBAAAgAAAAAAAIBIAACAAAAAAQAQAASAABAQ=</HashCode>
+      <FileName>Watermark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.WatermarkException" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WatermarkException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.WatermarkResult" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAkAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WatermarkResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HiddenWatermark.YuvData" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEQAAAAAAAAAAAAAAAASIAA=</HashCode>
+      <FileName>YuvData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkingDemo\bin\Debug\WatermarkerUI.exe.config
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\WatermarkerUI.exe.config
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\original.jpg
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\WatermarkerUI.exe
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\WatermarkerUI.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\HiddenWatermark.dll
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\bin\Debug\HiddenWatermark.pdb
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.csprojResolveAssemblyReference.cache
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\MainWindow.baml
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\MainWindow.g.cs
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\App.g.cs
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI_MarkupCompile.cache
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.g.resources
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.Properties.Resources.resources
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.csproj.GenerateResource.Cache
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.exe
+C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.pdb

@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenWatermark", "HiddenWa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenWatermark.Tests", "HiddenWatermark.Tests\HiddenWatermark.Tests.csproj", "{9C29C399-77A2-4022-82A0-63FA9B3D70DE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC3FA7D4-4ED3-44AF-BDB9-A2F3BF0634FA}"
+	ProjectSection(SolutionItems) = preProject
+		Graph1.dgml = Graph1.dgml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CustomActions|Any CPU = CustomActions|Any CPU
