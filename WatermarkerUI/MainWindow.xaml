@@ -17,6 +17,9 @@
 
 
         <StackPanel Grid.ColumnSpan="3">
+            <Menu x:Name="menu" Height="35">
+                
+            </Menu>
             <TextBlock Text="WatermarkerZ" FontWeight="ExtraBold" FontSize="30" HorizontalAlignment="Center" />
             <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
                 <TextBlock x:Name="SimilarityText" FontSize="12" VerticalAlignment="Center" Padding="5" />

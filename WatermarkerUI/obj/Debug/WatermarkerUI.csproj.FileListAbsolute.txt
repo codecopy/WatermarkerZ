@@ -15,3 +15,7 @@ C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\Watermarker
 C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.csproj.GenerateResource.Cache
 C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.exe
 C:\Users\HeriSatry\Source\Repos\watermarkerz\WatermarkerUI\obj\Debug\WatermarkerUI.pdb
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\WatermarkerUI\bin\Debug\Dropbox.Api.dll
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\WatermarkerUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\WatermarkerUI\bin\Debug\Dropbox.Api.xml
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\WatermarkerUI\bin\Debug\Newtonsoft.Json.xml
