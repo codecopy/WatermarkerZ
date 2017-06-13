@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WatermarkerZ")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Digital Watermarking tool using DCT and DWT technics")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WatermarkerZ")]
