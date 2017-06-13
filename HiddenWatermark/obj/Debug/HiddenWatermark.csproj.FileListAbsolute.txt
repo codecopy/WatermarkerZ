@@ -4,7 +4,6 @@ C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\obj\Debug\HiddenWat
 C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\obj\Debug\HiddenWatermark.pdb
 C:\Users\HeriSatry\Source\Repos\watermarkerz\HiddenWatermark\obj\Debug\HiddenWatermark.csprojResolveAssemblyReference.cache
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\HiddenWatermark.dll.config
-C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Dropbox.Api.dll
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.dll
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
@@ -16,7 +15,6 @@ C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Ne
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Net.Http.WebRequest.dll
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Runtime.dll
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Threading.Tasks.dll
-C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Dropbox.Api.xml
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.xml
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
@@ -29,3 +27,5 @@ C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Ne
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Runtime.xml
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\System.Threading.Tasks.xml
 C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\obj\Debug\HiddenWatermark.csproj.App.config
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Nemiro.OAuth.dll
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\HiddenWatermark\bin\Debug\Nemiro.OAuth.xml

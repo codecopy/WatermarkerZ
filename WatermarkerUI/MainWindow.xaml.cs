@@ -9,6 +9,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using HiddenWatermark;
 using Microsoft.Win32;
+using MyDropBox;
 
 namespace WatermarkerUI
 {
@@ -123,6 +124,12 @@ namespace WatermarkerUI
             imageSource.EndInit();
 
             control.Source = imageSource;
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MyDropBox.Form1 sForm1 = new MyDropBox.Form1();
+            sForm1.ShowDialog();
         }
     }
 }

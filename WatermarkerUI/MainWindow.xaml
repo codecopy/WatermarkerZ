@@ -45,6 +45,7 @@
             <Button x:Name="BtnLoadWatermarkedImage" Content="Load" Margin="5" Click="BtnLoadWatermarkedImage_Click" FontSize="16" />
             <Button x:Name="BtnRetrieveWatermark" Content="Retrieve Watermark" Margin="5" Click="BtnRetrieveWatermark_Click" FontSize="16" />
             <TextBlock x:Name="RetrieveTime" Margin="5" FontSize="12" />
+            <Button x:Name="button" Content="Upload" Width="75" Click="button_Click"/>
         </StackPanel>
     </Grid>
 </Window>

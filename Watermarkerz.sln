@@ -9,10 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenWatermark", "HiddenWa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenWatermark.Tests", "HiddenWatermark.Tests\HiddenWatermark.Tests.csproj", "{9C29C399-77A2-4022-82A0-63FA9B3D70DE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC3FA7D4-4ED3-44AF-BDB9-A2F3BF0634FA}"
-	ProjectSection(SolutionItems) = preProject
-		Graph1.dgml = Graph1.dgml
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDropBox", "..\..\..\Documents\Visual Studio 2015\Projects\MyDropBoxV2\MyDropBox.csproj", "{82794867-6307-4F2D-9CC5-E9DE3384CC2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +43,14 @@ Global
 		{9C29C399-77A2-4022-82A0-63FA9B3D70DE}.Publish|Any CPU.Build.0 = Release|Any CPU
 		{9C29C399-77A2-4022-82A0-63FA9B3D70DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C29C399-77A2-4022-82A0-63FA9B3D70DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.CustomActions|Any CPU.ActiveCfg = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.CustomActions|Any CPU.Build.0 = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Publish|Any CPU.ActiveCfg = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Publish|Any CPU.Build.0 = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82794867-6307-4F2D-9CC5-E9DE3384CC2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
