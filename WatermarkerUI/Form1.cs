@@ -62,7 +62,7 @@ namespace MyDropBox
       }
       else
       {
-        MessageBox.Show("error...");
+        MessageBox.Show("Oupsss... cannot login!");
       }
     }
 
@@ -112,7 +112,7 @@ namespace MyDropBox
       }
       else
       {
-        MessageBox.Show(result.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        MessageBox.Show(result.ToString(), "Cannot find files or folders", MessageBoxButtons.OK, MessageBoxIcon.Error);
       }
     }
 
@@ -150,7 +150,7 @@ namespace MyDropBox
       {
         if (result["error"].HasValue)
         {
-          MessageBox.Show(result["error"].ToString());
+          MessageBox.Show(result["Oups... something happened while creating folder."].ToString());
         }
         else 
         {
@@ -314,7 +314,7 @@ namespace MyDropBox
       {
         if (result["error_summary"].HasValue)
         {
-          MessageBox.Show(result["error_summary"].ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+          MessageBox.Show(result["error_summary"].ToString(), "Error! couldnt upload file", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
         else
         {
