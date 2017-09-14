@@ -1,0 +1,9 @@
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.loginForm.resources
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\HeriSatry\Source\Repos\WatermarkerZ\LoginForm\obj\Debug\LoginForm.pdb
